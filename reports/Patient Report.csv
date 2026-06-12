@@ -1,0 +1,4 @@
+id,name,age,gender,weight,height,blood_group,medical_history,allergies,insurance
+1,Omkar Sai,20,Male,70.0,5.6,A+,cold,no,no
+2,V.Konda ,30,Male,80.0,5.7,A+,,,
+3,V.Sai Gopi,50,Male,78.0,5.5,B+,Brain,no,no

@@ -1,0 +1,5 @@
+name,age,gender,weight,height,blood_group,medical_history,allergies,insurance
+Prem Kumar,22,Male,70,175,O+,None,None,Yes
+Rahul,35,Male,80,178,B+,Diabetes,None,Yes
+Priya,28,Female,60,165,A+,Asthma,Dust,No
+Anjali,40,Female,68,160,AB+,Hypertension,None,Yes
